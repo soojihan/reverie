@@ -24,7 +24,7 @@ permalink: /projects/
 <h3 style="text-align:left;">Context-aware message-level rumour detection with weak supervision</h3>
 <p>This research project focuses on researching early rumour detection (ERD) on social media by exploiting<br> weak supervision and contextual information. Weak supervision is a branch of Machine Learning (ML) where noisy and less precise sources (e.g. data patterns) are leveraged to learn limited high-quality labelled data. This is intended to reduce the cost and increase the efficiency of the hand-labelling of large-scale data. </p>
 
-<p>The aim is to study whether identifying rumours before they go viral is possible and develop an architecture for ERD at individual post level. To this end, it first explores the following three major bottlenecks of state-of-the-art ERD:</br>
+<p>The aim is to study whether identifying rumours before they go viral is possible and develop an architecture for ERD at individual post level. To this end, it first explores the following three major bottlenecks of state-of-the-art ERD:<br>
 <ol>
   <li>labelled data scarcity and class imbalance</li>
   <li>enormous amounts of noisy data</li>
