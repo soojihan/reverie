@@ -45,6 +45,6 @@ Figure 1 visualises an overview of research design for addressing the bottleneck
 
 <p>The objective of this project is to provide effective solutions for intelligent and sustainable mobility - i.e. the smarter, greener and more efficient movement of people and goods. SETA will provide a radical change from transport as a series of separate modal journeys to an integrated, reactive, intelligent, mobility system. It will provide always-on, pervasive services to citizens and business, as well as decision-makers to support safe, sustainable, effective, efficient and resilient mobility. The project lasts three years, with €5.5m of funding from EU Horizon 2020 of which €1.2m is for Sheffield.<a href="https://staffwww.dcs.shef.ac.uk/people/F.Ciravegna/Fabio_Ciravegna/About.html" target="_blank"> Professor Fabio Ciravegna</a> is the project director (2016-2019).</p>
 
-<h3 style="text-align:left;"><a href="https://footballwhispers.com/" target="_blank">Football Whispers</h3>
+<h3 style="text-align:left;"><a href="https://footballwhispers.com/" target="_blank">Football Whispers</a></h3>
 
 <p>This is an industrial project that mines information from millions of social media messages and predicts football transfers by analysing related rumours on social media. Football Whispers is the world’s first football transfer predictor, built by football fans for football fans. We sort the dead certs from long shots. We show you who’s really moving and who’s staying put; all with our unique Football Whispers Index.</p>
