@@ -1,29 +1,27 @@
 ---
 layout: page
-title: Publications
+title: 
 permalink: /publications/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+<h2 style="text-align:left;">2022</h2>
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+<h3 style="text-align:left;">Hierarchical Attention Network for Explainable Depression Detection on Twitter Aided by Metaphor Concept Mappings</h3>
+<b><ins>Sooji Han</ins></b>, Rui Mao and Erik Cambria<br>
+<a href="https://coling2022.org/" target="_blank">International Conference on Computational Linguistics (COLING 2022)</a><br>
+<a href="https://aclanthology.org/2022.coling-1.9.pdf" target="_blank"><img src="images/pdf.png" id='img3'></a> &nbsp; <a href="https://github.com/soojihan/HAN" target="_blank"><img src="images/github.png" id='img3'></a> &nbsp; <a href="https://zenodo.org/record/7095100" target="_blank"><img src="images/data.png" id='img2'>
+    
+<!--   <span class="fancy-underline">Sooji Han</span>, Rui Mao and Erik Cambria<br>
+  <a href="https://coling2022.org/" target="_blank">International Conference on Computational Linguistics (COLING 2022)</a><br>
+  In press, <a href="https://arxiv.org/pdf/2209.07494.pdf" target="_blank"><img src="images/pdf.png" id='img3'></a> &nbsp; <a href="https://github.com/soojihan/HAN" target="_blank"><img src="images/github.png" id='img3'></a> &nbsp; <a href="https://zenodo.org/record/7095100" target="_blank"><img src="images/data.png" id='img2'></a>
+</div>
+<br>
+<div id="div2">
+  <span class="boldfont">Sentic Parser: A Graph-Based Approach to Concept Extraction for Sentiment Analysis</span><br>
+  Erik Cambria, Rui Mao, <span class="fancy-underline">Sooji Han</span>, Qian Liu<br>
+  <a href="https://sentic.net/sentire/" target="_blank">SENTIRE 2022</a><br>
+  In press, <a href="https://sentic.net/sentic-parser.pdf" target="_blank"><img src="images/pdf.png" id='img3'></a> 
+</div> -->
 
-## Features
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
