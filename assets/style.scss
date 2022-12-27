@@ -1146,6 +1146,17 @@ Modules - reusable parts of our design
   width: 3%;
 }
 
+/* hyperlink color */
+a {
+color: #45ADA8;
+}
+
+a:hover {
+  color: #547980;
+  background-color: transparent;
+  text-decoration: none;
+}
+
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
