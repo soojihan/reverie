@@ -32,9 +32,9 @@ permalink: /projects/
 </ol></span>
 Figure 1 visualises an overview of research design for addressing the bottlenecks introduced above. This project also uncovers a research gap between system design and its applications in the real world, which have received less attention from the research community of ERD.<br>
 <br>
+
 <figure>
   <img src="../images/overview.png" alt="Project overview">
-  <figcaption><span class='prbody'><span class='boldfont'>Figure 1:</span> Project overview</span>
+  <figcaption>Figure 1: Project overview</figcaption>
 </figure>
   
-
