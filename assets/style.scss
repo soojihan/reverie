@@ -1181,10 +1181,7 @@ p.mine {
 
 .fancy-underline {
   text-decoration: none;
-  border-bottom: 3px solid rgba(69, 173, 168, 0.5);
-  text-underline-position: under;
-  line-height: 0.5;
-
+  border-bottom: 1px solid rgba(69, 173, 168, 0.5);
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
