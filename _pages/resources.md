@@ -18,4 +18,4 @@ permalink: /resources/
 <a href="https://github.com/soojihan/RPDNN" target="_blank"><img src="../images/model.png" width="24" height="24"></a> RP-DNN for early message-level rumour detection on Twitter <br>
  
 
- <a href="https://figshare.shef.ac.uk/articles/Credibility_corpus_fine-tuned_ELMo_contextual_language_model_for_early_rumor_detection_on_social_media/11591775" target="_blank"><img src="../images/model.png" width="24" height="24"></a> ELMo fine-tuned on the CREDBANK data sets for rumour tweet representation <br>
+ <a href="https://figshare.shef.ac.uk/articles/Credibility_corpus_fine-tuned_ELMo_contextual_language_model_for_early_rumor_detection_on_social_media/11591775" target="_blank"><img src="../images/model.png" width="24" height="24"></a> ELMo fine-tuned on the CREDBANK datasets for rumour tweet representation <br>
