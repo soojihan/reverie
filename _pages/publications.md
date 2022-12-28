@@ -9,14 +9,14 @@ permalink: /publications/
 
 <p style="text-align:left;font-weight:bold;font-size:20px;line-height:1.0;color:black;margin-bottom:-8px;">Hierarchical Attention Network for Explainable Depression Detection on Twitter Aided by Metaphor Concept Mappings</p> 
 <span class="fancy-underline">Sooji Han</span>, Rui Mao and Erik Cambria<br>
-<a href="https://coling2022.org/" target="_blank">International Conference on Computational Linguistics (COLING 2022)</a><br>
+<p style="line-height:1.0;margin-bottom:-8px;"><a href="https://coling2022.org/" target="_blank">International Conference on Computational Linguistics (COLING 2022)</a></p>
 <p style="color:grey;font-size:16px;margin-top:-20px;margin-bottom:-15px;">Presenter</p>
 <a href="https://aclanthology.org/2022.coling-1.9.pdf" target="_blank"><img src="../images/pdf1.png" width="24" height="24"></a> &nbsp; <a href="https://github.com/soojihan/HAN" target="_blank"><img src="../images/github1.png" width="24" height="24"></a> &nbsp; <a href="https://zenodo.org/record/7095100" target="_blank"><img src="../images/dataset1.png" width="24" height="24"></a>
     
 
 <p style="text-align:left;font-weight:bold;font-size:20px;line-height:1.0;color:black;margin-bottom:-8px;">Sentic Parser: A Graph-Based Approach to Concept Extraction for Sentiment Analysis</p> 
 Erik Cambria, Rui Mao, <span class="fancy-underline">Sooji Han</span>, Qian Liu<br>
-<a href="https://sentic.net/sentire/" target="_blank">2022 International Conference on Data Mining Workshops (ICDMW) SENTIRE</a><br>
+<p style="line-height:1.0;margin-bottom:-8px;"><a href="https://sentic.net/sentire/" target="_blank">2022 International Conference on Data Mining Workshops (ICDMW) SENTIRE</a></p>
 <a href="https://sentic.net/sentic-parser.pdf" target="_blank"><img src="../images/pdf1.png" width="24" height="24"></a> 
  
 
@@ -40,7 +40,7 @@ Jie Gao, <span class="fancy-underline">Sooji Han</span>, Xingy Song and Fabio Ci
 
 <p style="text-align:left;font-weight:bold;font-size:20px;line-height:1.0;color:black;margin-bottom:-8px;">Neural language model based training data augmentation for weakly supervised early rumour detection</p> 
  <span class="fancy-underline">Sooji Han</span>, Jie Gao and Fabio Ciravegna<br>
-<a href="http://asonam.cpsc.ucalgary.ca/2019/" target="_blank">Advances in Social Networks Analysis and Mining (ASONAM 2019)</a><br>
+<p style="line-height:1.0;margin-bottom:-8px;"><a href="http://asonam.cpsc.ucalgary.ca/2019/" target="_blank">Advances in Social Networks Analysis and Mining (ASONAM 2019)</a></p>
 <p style="color:grey;font-size:16px;margin-top:-20px;margin-bottom:-15px;">Presenter</p>
 <a href="https://arxiv.org/pdf/1907.07033.pdf" target="_blank"><img src="../images/pdf1.png" width="24" height="24"></a>  &nbsp; <a href="https://github.com/soojihan/Multitask4Veracity" target="_blank"><img src="../images/github1.png" width="24" height="24"></a> &nbsp;<a href="https://zenodo.org/record/3269768" target="_blank"><img src="../images/dataset1.png" width="24" height="24"></a>
 
@@ -52,7 +52,7 @@ Jie Gao, <span class="fancy-underline">Sooji Han</span>, Xingy Song and Fabio Ci
 
 <p style="text-align:left;font-weight:bold;font-size:20px;line-height:1.0;color:black;margin-bottom:-8px;">Rumour detection on social media for crisis management</p> 
 <span class="fancy-underline">Sooji Han</span> and Fabio Ciravegna<br>
-<a href="https://iscram2019.webs.upv.es/" target="_blank">Information Systems for Crisis Response and Management (ISCRAM 2019)</a><br>
+<p style="line-height:1.0;margin-bottom:-8px;"><a href="https://iscram2019.webs.upv.es/" target="_blank">Information Systems for Crisis Response and Management (ISCRAM 2019)</a></p>
 <p style="color:grey;font-size:16px;margin-top:-20px;margin-bottom:-15px;">Presenter</p>
 <a href="https://pdfs.semanticscholar.org/8298/9a83f48551fc87734e2a2cdac69dbd312d24.pdf" target="_blank"><img src="../images/pdf.png"  width="24" height="24"></a>
 
