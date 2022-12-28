@@ -10,7 +10,7 @@ permalink: /publications/
 <p style="text-align:left;font-weight:bold;font-size:20px;line-height:1.0;color:black;margin-bottom:-8px;">Hierarchical Attention Network for Explainable Depression Detection on Twitter Aided by Metaphor Concept Mappings</p> 
 <span class="fancy-underline">Sooji Han</span>, Rui Mao and Erik Cambria<br>
 <p style="line-height:1.0;margin-bottom:-8px;"><a href="https://coling2022.org/" target="_blank">International Conference on Computational Linguistics (COLING 2022)</a></p><br>
-<p style="color:grey;font-size:16px;margin-top:-20px;margin-bottom:-15px;">Presenter</p>
+<p style="color:grey;font-size:16px;margin-top:-50px;margin-bottom:-15px;">Presenter</p>
 <a href="https://aclanthology.org/2022.coling-1.9.pdf" target="_blank"><img src="../images/pdf1.png" width="24" height="24"></a> &nbsp; <a href="https://github.com/soojihan/HAN" target="_blank"><img src="../images/github1.png" width="24" height="24"></a> &nbsp; <a href="https://zenodo.org/record/7095100" target="_blank"><img src="../images/dataset1.png" width="24" height="24"></a>
     
 
