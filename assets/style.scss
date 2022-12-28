@@ -180,11 +180,11 @@ span[data-pullquote]:before {
 }
 
 a {
-  color: $blue;
+  color: #45ADA8;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: #45ADA8;
   }
 }
 
@@ -357,7 +357,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: #45ADA8;
     }
   }
 }
