@@ -8,7 +8,6 @@ permalink: /publications/
 
 
 <p style="text-align:left;font-weight:bold;font-size:20px;line-height:1.0;color:black;margin-bottom:-5px;">Hierarchical Attention Network for Explainable Depression Detection on Twitter Aided by Metaphor Concept Mappings</p> 
-<!-- <b><ins>Sooji Han</ins></b>, Rui Mao, and Erik Cambria<br> -->
 <span class="fancy-underline">Sooji Han</span>, Rui Mao and Erik Cambria<br>
 <a href="https://coling2022.org/" target="_blank">International Conference on Computational Linguistics (COLING 2022)</a><br>
 <p style="color:grey;font-size:16px;margin-top:-20px;margin-bottom:-15px;">Presenter</p>
@@ -48,7 +47,7 @@ Jie Gao, <span class="fancy-underline">Sooji Han</span>, Xingy Song and Fabio Ci
 
 <p style="text-align:left;font-weight:bold;font-size:20px;line-height:1.0;color:black;margin-bottom:-5px;">Data augmentation for rumour detection using context-sensitive neural language model with large-scale credibility corpus</p> 
 <span class="fancy-underline">Sooji Han</span>, Jie Gao and Fabio Ciravegna<br>
-<a href="https://iclr.cc/Conferences/2019" target="_blank">International Conference on Learning Representations (ICLR 2019)</a> workshop on <a href="https://lld-workshop.github.io/" target="_blank">Learning from Limited Labeled Data (LLD)</a><br>
+<p style="margin-bottom:-5px;"<a href="https://iclr.cc/Conferences/2019" target="_blank">International Conference on Learning Representations (ICLR 2019)</a> workshop on <a href="https://lld-workshop.github.io/" target="_blank">Learning from Limited Labeled Data (LLD)</a></p><br>
 <a href="https://openreview.net/pdf?id=SyxCysRNdV" target="_blank"><img src="../images/pdf1.png" width="24" height="24"></a> &nbsp; <a href="https://github.com/soojihan/Multitask4Veracity" target="_blank"><img src="../images/github1.png" width="24" height="24"></a>
 
 <p style="text-align:left;font-weight:bold;font-size:20px;line-height:1.0;color:black;margin-bottom:-5px;">Rumour detection on social media for crisis management</p> 
