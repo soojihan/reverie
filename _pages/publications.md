@@ -13,16 +13,13 @@ permalink: /publications/
 <a href="https://coling2022.org/" target="_blank">International Conference on Computational Linguistics (COLING 2022)</a><br>
 <a href="https://aclanthology.org/2022.coling-1.9.pdf" target="_blank"><img src="../images/pdf1.png" width="24" height="24"></a> &nbsp; <a href="https://github.com/soojihan/HAN" target="_blank"><img src="../images/github1.png" width="24" height="24"></a> &nbsp; <a href="https://zenodo.org/record/7095100" target="_blank"><img src="../images/dataset1.png" width="24" height="24"></a>
     
-<br>
-<br>
 
 <p style="text-align:left;font-weight:bold;font-size:20px;line-height:1.0;color:black;margin-bottom:-5px;">Sentic Parser: A Graph-Based Approach to Concept Extraction for Sentiment Analysis</p> 
 Erik Cambria, Rui Mao, <span class="fancy-underline">Sooji Han</span>, Qian Liu<br>
 <a href="https://sentic.net/sentire/" target="_blank">2022 International Conference on Data Mining Workshops (ICDMW) SENTIRE</a><br>
 <a href="https://sentic.net/sentic-parser.pdf" target="_blank"><img src="../images/pdf1.png" width="24" height="24"></a> 
  
-<br>
-<br>
+
 
 <h2 style="text-align:left;">2020</h2>
 
