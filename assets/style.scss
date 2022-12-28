@@ -1179,6 +1179,11 @@ p.mine {
   margin-bottom: 50px;
 }
 
+.fancy-underline {
+  text-decoration: none;
+  border-bottom: 3px solid rgba(69, 173, 168, 0.5);
+
+}
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
