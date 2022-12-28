@@ -37,6 +37,8 @@ permalink: /projects/
 
 <p class="mine">Figure 1 visualises an overview of research design for addressing the bottlenecks introduced above. This project also uncovers a research gap between system design and its applications in the real world, which have received less attention from the research community of ERD.</p>
  -->
+ 
+ 
 <p style="text-align:left;font-weight:bold;font-size:20px;line-height:1.0;color:black;"><a href="http://setamobility.eu/" target="_blank">SETA</a>: ubiquitous data and service ecosystem for better metropolitan mobility</p>
 
 <p class="mine">The objective of this project is to provide effective solutions for intelligent and sustainable mobility - i.e. the smarter, greener and more efficient movement of people and goods. SETA will provide a radical change from transport as a series of separate modal journeys to an integrated, reactive, intelligent, mobility system. It will provide always-on, pervasive services to citizens and business, as well as decision-makers to support safe, sustainable, effective, efficient and resilient mobility. The project lasts three years, with €5.5m of funding from EU Horizon 2020 of which €1.2m is for Sheffield.<a href="https://staffwww.dcs.shef.ac.uk/people/F.Ciravegna/Fabio_Ciravegna/About.html" target="_blank"> Professor Fabio Ciravegna</a> is the project director (2016-2019).</p>
