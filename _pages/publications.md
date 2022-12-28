@@ -47,7 +47,7 @@ Jie Gao, <span class="fancy-underline">Sooji Han</span>, Xingy Song and Fabio Ci
 
 <p style="text-align:left;font-weight:bold;font-size:20px;line-height:1.0;color:black;margin-bottom:-8px;">Data augmentation for rumour detection using context-sensitive neural language model with large-scale credibility corpus</p> 
 <span class="fancy-underline">Sooji Han</span>, Jie Gao and Fabio Ciravegna<br>
-<p style="margin-bottom:-5px;"><a href="https://iclr.cc/Conferences/2019" target="_blank">International Conference on Learning Representations (ICLR 2019)</a> workshop on <a href="https://lld-workshop.github.io/" target="_blank">Learning from Limited Labeled Data (LLD)</a></p><br>
+<p style="margin-bottom:-5px;"><a href="https://iclr.cc/Conferences/2019" target="_blank">International Conference on Learning Representations (ICLR 2019)</a> workshop on <a href="https://lld-workshop.github.io/" target="_blank">Learning from Limited Labeled Data (LLD)</a></p>
 <a href="https://openreview.net/pdf?id=SyxCysRNdV" target="_blank"><img src="../images/pdf1.png" width="24" height="24"></a> &nbsp; <a href="https://github.com/soojihan/Multitask4Veracity" target="_blank"><img src="../images/github1.png" width="24" height="24"></a>
 
 <p style="text-align:left;font-weight:bold;font-size:20px;line-height:1.0;color:black;margin-bottom:-8px;">Rumour detection on social media for crisis management</p> 
