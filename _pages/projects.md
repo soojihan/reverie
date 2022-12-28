@@ -24,13 +24,12 @@ permalink: /projects/
 <p style="text-align:left;font-weight:bold;font-size:20px;line-height:1.0;color:black;">Context-aware message-level rumour detection with weak supervision</p>
 <p class="mine" style="margin-bottom:10px;">This research project focuses on researching early rumour detection (ERD) on social media by exploiting weak supervision and contextual information. Weak supervision is a branch of Machine Learning (ML) where noisy and less precise sources (e.g. data patterns) are leveraged to learn limited high-quality labelled data. This is intended to reduce the cost and increase the efficiency of the hand-labelling of large-scale data. </p>
 
-<p class="mine" style="margin-bottom:10px;">The aim is to study whether identifying rumours before they go viral is possible and develop an architecture for ERD at individual post level. To this end, it first explores the following three major bottlenecks of state-of-the-art ERD:</p>
-<ol>
+<p class="mine" style="margin-bottom:10px;">The aim is to study whether identifying rumours before they go viral is possible and develop an architecture for ERD at individual post level. To this end, it first explores the following three major bottlenecks of state-of-the-art ERD: <b>1) labelled data scarcity and class imbalance; 2) enormous amounts of noisy data; and 3) limited context.</b></p>
+<!-- <ol>
   <li>labelled data scarcity and class imbalance</li>
   <li>enormous amounts of noisy data</li>
   <li>the limited availability of context in message-level ERD</li>
-</ol>
-
+</ol> -->
 
 
 <figure>
@@ -38,7 +37,7 @@ permalink: /projects/
   <figcaption>Figure 1: Project overview</figcaption>
 </figure>
 
-<p class="mine" style="margin-bottom:10px;">Figure 1 visualises an overview of research design for addressing the bottlenecks introduced above. This project also uncovers a research gap between system design and its applications in the real world, which have received less attention from the research community of ERD.</p>
+<p class="mine">Figure 1 visualises an overview of research design for addressing the bottlenecks introduced above. This project also uncovers a research gap between system design and its applications in the real world, which have received less attention from the research community of ERD.</p>
 
 <p style="text-align:left;font-weight:bold;font-size:20px;line-height:1.0;color:black;"><a href="http://setamobility.eu/" target="_blank">SETA</a>: ubiquitous data and service ecosystem for better metropolitan mobility</p>
 
