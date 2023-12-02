@@ -4,6 +4,12 @@ title:
 permalink: /projects/
 ---
 <h2 style="text-align:left;">Current projects</h2>
+<p style="text-align:left;font-weight:bold;font-size:20px;line-height:1.0;color:black;">Industry classification</p>
+<p style="text-align:left;font-weight:bold;font-size:20px;line-height:1.0;color:black;"><a href="https://news-polygraph.com/en/research-alliance-news-polygraph/" target="_blank">News Polygraph</a></p>
+
+
+<h2 style="text-align:left;">Past projects</h2>
+
 
 <p style="text-align:left;font-weight:bold;font-size:20px;line-height:1.0;color:black;">Explainable Depression Detection on Social Media</p>
 <p class="mine">Depression is a serious health and social issue that afflicts many individuals in modern society and its prevalence is predicted to increase globally. People with depression are likely to express their feelings and mental states over their social media before seeing health professionals. Most existing black-box-like deep learning methods for depression detection largely focused on improving classification performance. However, explaining model decisions is imperative in health research because decision-making can often be high-stakes and life-and-death. Reliable automatic diagnosis of mental health problems including depression should be supported by credible explanations justifying models' predictions. This project aims to develop automatic, efficient solutions for depression detection. Potentially, outcomes of this project can help patients conduct a self-assessment of risks for their mental disorders and better understand their experiences and health professionals provide tailored, timely therapy to patients, thereby achieving remission and preventing relapse efficiently and effectively.</p>
@@ -11,7 +17,6 @@ permalink: /projects/
 <p style="text-align:left;font-weight:bold;font-size:20px;line-height:1.0;color:black;">Human-Robot Collaborative Al for Advanced Manufacturing and Engineering, S$1,962,800 (Oct 2021-present)</p>
 <p class="mine">This collaborative research project, involving A*STAR, Nanyang Technological University, National University of Singapore and Singapore University of Technology and Design, seeks to enable a fundamental shift in human-machine interaction to allow intelligent machines to work alongside humans as partners, interacting in a natural human-like manner. In particular, I focus on developing a multi-layer, multi-domain and multi-modal commonsense knowledge representation and a suite of reasoning strategies to leverage such knowledge to support higher level inference involved in perception and task understanding, collaborative dialogue, human mental state inference, task concept and script learning, and task planning and execution.</p>
 
-<h2 style="text-align:left;">Past projects</h2>
 
 <p style="text-align:left;font-weight:bold;font-size:20px;line-height:1.0;color:black;">Governmental Requests for Information Decomposition, Undisclosed amount (Jan-Mar 2022)</p>
 <p class="mine">Requests for Information (RFIs) seeking the clarification of questions asked are an imperative communication process in decision-making. I am interested in accelerating and optimising the handling of RFIs with a minimum of human supervision. This projects develops, implements and demonstrates computational solutions for optimally matching a textual question with limited context to the most relevant subset of information resources to answer the question. This project is funded by the Defence Science and Technology Laboratory (Dstl), an executive agency of the Ministry of Defence of the UK.</p>
