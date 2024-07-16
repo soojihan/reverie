@@ -4,13 +4,18 @@ title:
 permalink: /projects/
 ---
 <h2 style="text-align:left;">Current projects</h2>
-<p style="text-align:left;font-weight:bold;font-size:20px;line-height:1.0;color:black;">Industry classification</p>
-<p class="mine">Machine learning-based industry classification according to the North American Industry Classification System (NAICS) involves the use of diverse ML algorithms and NLP techniques to automatically categorise businesses into specific industry codes. NAICS is a widely adopted system for classifying establishments based on their primary business activities. Traditionally, industry classification has been a manual and time-consuming process, but with the integration of machine learning, the task becomes more efficient and precise.</p>
+
 
 <p style="text-align:left;font-weight:bold;font-size:20px;line-height:1.0;color:black;"><a href="https://news-polygraph.com/en/research-alliance-news-polygraph/" target="_blank">News Polygraph</a></p>
 <p class="mine">News Polygraph is a collaborative research project dedicated to advancing research in the field of media and news credibility. The research alliance engages in activities related to fact-checking and online disinformation detection and debunking. As a project lead, I design, develop and deploy an AI system for disinformation detection and monitoring by leveraging sources and information propagation. </p>
 
 <h2 style="text-align:left;">Past projects</h2>
+
+<p style="text-align:left;font-weight:bold;font-size:20px;line-height:1.0;color:black;">Industry classification</p>
+<p class="mine">Machine learning-based industry classification according to the North American Industry Classification System (NAICS) involves the use of diverse ML algorithms and NLP techniques to automatically categorise businesses into specific industry codes. NAICS is a widely adopted system for classifying establishments based on their primary business activities. Traditionally, industry classification has been a manual and time-consuming process, but with the integration of machine learning, the task becomes more efficient and precise.</p>
+
+<p style="text-align:left;font-weight:bold;font-size:20px;line-height:1.0;color:black;">Co-reference resolution</p>
+<p class="mine"></p>
 
 
 <p style="text-align:left;font-weight:bold;font-size:20px;line-height:1.0;color:black;">Explainable Depression Detection on Social Media</p>
