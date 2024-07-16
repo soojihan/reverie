@@ -5,6 +5,12 @@ permalink: /projects/
 ---
 <h2 style="text-align:left;">Current projects</h2>
 
+<p style="text-align:left;font-weight:bold;font-size:20px;line-height:1.0;color:black;"><a href="https://news-polygraph.com/en/research-alliance-news-polygraph/" target="_blank">Company recommendation</a></p>
+<p class="mine"> </p>
+
+<p style="text-align:left;font-weight:bold;font-size:20px;line-height:1.0;color:black;"><a href="https://news-polygraph.com/en/research-alliance-news-polygraph/" target="_blank">Knowledge representation (vector database and knowledge graph)</a></p>
+<p class="mine"> </p>
+
 
 <p style="text-align:left;font-weight:bold;font-size:20px;line-height:1.0;color:black;"><a href="https://news-polygraph.com/en/research-alliance-news-polygraph/" target="_blank">News Polygraph</a></p>
 <p class="mine">News Polygraph is a collaborative research project dedicated to advancing research in the field of media and news credibility. The research alliance engages in activities related to fact-checking and online disinformation detection and debunking. As a project lead, I design, develop and deploy an AI system for disinformation detection and monitoring by leveraging sources and information propagation. </p>
